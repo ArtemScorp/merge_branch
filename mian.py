@@ -19,7 +19,7 @@ def process_scores(scores):
         average = total / count
     return average
 
-user_info = {"name": "Алексей", "age": 25, "city": "Москва"}
+user_info = {"name": "Артёи", "age": 12, "city": "Иркутск"}
 save_user_data("user.txt", user_info)
 
 user_scores = [-5, -2, 0]
